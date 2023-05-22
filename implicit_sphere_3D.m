@@ -7,6 +7,6 @@ fimplicit3(F)
 
 axis equal
 hold on 
-
+ 
 F(0, 1, 1)
 plot3(0, 1, 1, 'r*', 'MarkerSize', 30)
