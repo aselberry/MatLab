@@ -41,12 +41,6 @@ cy = subs(fy, [b3 b2 b1 b0], [sy.b3 sy.b2 sy.b1 sy.b0]);
 
 fplot(cx, cy, [t1 t2], 'g', 'LineWidth', 2)
 hold on
-%Let us consider the curve in Question 8. Let us join an Hermite arc
-% with C1
-%continuity whose
-%starting point is (6, −2), endpoint is (14, −4), and the tangent vector at its endpoint 
-% is (3, 0) !
-%The parameter at the starting point is 0, and at the 
 
 hpx = [px(2) 14];
 hpy = [py(2) -4];
