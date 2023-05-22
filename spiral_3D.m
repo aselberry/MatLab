@@ -2,7 +2,7 @@ clc; clear; close all;
 
 syms t
 cx(t) = t*cos(t);
-cy(t) = t*sin(t);
+cy(t) = t*sin(t); 
 cz(t) = t; 
 fplot3(cx, cy, cz, [0 20*pi], 'g', 'LineWidth', 2)
 
