@@ -1,5 +1,5 @@
 # Computer aided math and visualization
-Data Modeling and Curve visualization through mathematical formulas. Computer Based solutions for Hermite Curve, Implicit 3D Curve, and modeling 3D Spiral Curve Through Implicit Functions.
+Data Modeling and Curve Visualization through mathematical equations, functions, and theorems. Computer Based solutions for Hermite Curve, Implicit 3D Curve, and 3D Spiral Curve.
 
 **Used tool:**
 MatLab
